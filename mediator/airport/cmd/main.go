@@ -1,8 +1,8 @@
 package main
 
 import (
-    "airport/airplane"
-    "airport/manage-tower"
+    "design-patterns/mediator/airport/airplane"
+    "design-patterns/mediator/airport/manage-tower"
 )
 
 func main() {

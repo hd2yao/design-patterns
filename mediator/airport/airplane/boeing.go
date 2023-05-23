@@ -3,7 +3,7 @@ package airplane
 import (
     "fmt"
 
-    "airport/interf"
+    "design-patterns/mediator/airport/interf"
 )
 
 type boeingPlane struct {
