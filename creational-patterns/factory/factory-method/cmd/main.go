@@ -6,8 +6,8 @@ import (
 )
 
 func main() {
-    ak47, _ := creator.NewGunFactory("ak47")
-    musket, _ := creator.NewGunFactory("musket")
+    ak47, _ := creator.NewGunFactory("ak47").Create()
+    musket, _ := creator.NewGunFactory("musket").Create()
 
     fmt.Printf("Gun: %s\n", ak47.GetName())
     fmt.Printf("Power: %d\n", ak47.GetPower())

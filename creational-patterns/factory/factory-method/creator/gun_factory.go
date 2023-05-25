@@ -7,8 +7,16 @@ import (
     "design-patterns/creational-patterns/factory/factory-method/product"
 )
 
-func NewGunFactory(gunType string) (interf.IGun, error) {
-    switch gunType {
+func NewGunFactory(gunType string) *gunFactory {
+    return &gunFactory{gunType: gunType}
+}
+
+type gunFactory struct {
+    gunType string
+}
+
+func (gunFt *gunFactory) Create() (interf.IGun, error) {
+    switch gunFt.gunType {
     case "ak47":
         return product.NewAK47Factory(), nil
     case "musket":
