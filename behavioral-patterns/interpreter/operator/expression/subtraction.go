@@ -1,6 +1,8 @@
 package expression
 
-import "design-patterns/interpreter/operator/interf"
+import (
+    "design-patterns/behavioral-patterns/interpreter/operator/interf"
+)
 
 func NewSubtractionExpressionFactory(left, right interf.Expression) *subtractionExpression {
     return &subtractionExpression{

@@ -1,6 +1,8 @@
 package manage_tower
 
-import "design-patterns/mediator/airport/interf"
+import (
+    "design-patterns/behavioral-patterns/mediator/airport/interf"
+)
 
 type manageTower struct {
     isRunwayFree bool

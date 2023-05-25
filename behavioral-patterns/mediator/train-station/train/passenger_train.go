@@ -1,7 +1,7 @@
 package train
 
 import (
-    "design-patterns/mediator/train-station/interf"
+    "design-patterns/behavioral-patterns/mediator/train-station/interf"
     "fmt"
 )
 

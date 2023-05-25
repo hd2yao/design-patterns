@@ -1,11 +1,10 @@
 package parser
 
 import (
+    expression2 "design-patterns/behavioral-patterns/interpreter/operator/expression"
+    "design-patterns/behavioral-patterns/interpreter/operator/interf"
     "strconv"
     "strings"
-
-    "design-patterns/interpreter/operator/expression"
-    "design-patterns/interpreter/operator/interf"
 )
 
 func NewParserFactory() *Parser {
@@ -39,17 +38,17 @@ func (p *Parser) Parser(exp string) {
 func (p *Parser) newNumberExpression() interf.Expression {
     v, _ := strconv.Atoi(p.exp[p.index])
     p.index++
-    return expression.NewNumberExpressionFactory(v)
+    return expression2.NewNumberExpressionFactory(v)
 }
 
 func (p *Parser) newAdditionExpression() interf.Expression {
     p.index++
-    return expression.NewAdditionExpressionFactory(p.prev, p.newNumberExpression())
+    return expression2.NewAdditionExpressionFactory(p.prev, p.newNumberExpression())
 }
 
 func (p *Parser) newSubtractionExpression() interf.Expression {
     p.index++
-    return expression.NewSubtractionExpressionFactory(p.prev, p.newNumberExpression())
+    return expression2.NewSubtractionExpressionFactory(p.prev, p.newNumberExpression())
 }
 
 func (p *Parser) Result() interf.Expression {

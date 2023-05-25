@@ -1,6 +1,8 @@
 package manager
 
-import "design-patterns/mediator/train-station/interf"
+import (
+    "design-patterns/behavioral-patterns/mediator/train-station/interf"
+)
 
 type stationManager struct {
     isPlatformFree bool
