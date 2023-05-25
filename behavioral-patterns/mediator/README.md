@@ -18,5 +18,5 @@
 + 对于组件来说， 中介者看上去完全就是一个黑箱。 发送者不知道最终会由谁来处理自己的请求， 接收者也不知道最初是谁发出了请求。
 
 参考学习内容：
-1. https://mp.weixin.qq.com/s/91-XUm5Gn9oQLd_F4dLb3A
-2. https://refactoringguru.cn/design-patterns/mediator
+1. [Go设计模式--中介者，最后的模式！](https://mp.weixin.qq.com/s/91-XUm5Gn9oQLd_F4dLb3A)
+2. [中介者模式](https://refactoringguru.cn/design-patterns/mediator)
