@@ -1,5 +1,8 @@
-package main
+package interf
 
-func main() {
-
+type IGun interface {
+    SetName(name string)
+    SetPower(power int)
+    GetName() string
+    GetPower() int
 }
