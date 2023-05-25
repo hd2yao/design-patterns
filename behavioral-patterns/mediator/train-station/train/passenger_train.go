@@ -1,8 +1,9 @@
 package train
 
 import (
-    "design-patterns/behavioral-patterns/mediator/train-station/interf"
     "fmt"
+
+    "design-patterns/behavioral-patterns/mediator/train-station/interf"
 )
 
 type passengerTrain struct {

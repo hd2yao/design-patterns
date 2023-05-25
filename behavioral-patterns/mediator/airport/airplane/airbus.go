@@ -1,8 +1,9 @@
 package airplane
 
 import (
-    "design-patterns/behavioral-patterns/mediator/airport/interf"
     "fmt"
+
+    "design-patterns/behavioral-patterns/mediator/airport/interf"
 )
 
 type airBusPlane struct {

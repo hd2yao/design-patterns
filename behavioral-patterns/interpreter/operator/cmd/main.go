@@ -1,9 +1,10 @@
 package main
 
 import (
-    "design-patterns/behavioral-patterns/interpreter/operator/parser"
     "fmt"
     "log"
+
+    "design-patterns/behavioral-patterns/interpreter/operator/parser"
 )
 
 func main() {
