@@ -29,5 +29,6 @@
 + 每个具体工厂都对应特定产品变体， 且仅创建此种产品变体。
 
 参考学习内容：
-1. https://refactoringguru.cn/design-patterns/factory-method
-2. [工厂模式有三个Level，你能用Go写到第几层？](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247495992&idx=1&sn=591faf1acfbd5f5aa7f0dbc95506f85c&chksm=fa8320afcdf4a9b965a768e34dff675e754de7e0c9ad95ae3134be1fa4b0990c93c6e8b3162c&scene=178&cur_album_id=2531498848431669249#rd)
+1. [工厂方法模式](https://refactoringguru.cn/design-patterns/factory-method)
+2. [抽象工厂模式](https://refactoringguru.cn/design-patterns/factory-method)
+3. [工厂模式有三个Level，你能用Go写到第几层？](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247495992&idx=1&sn=591faf1acfbd5f5aa7f0dbc95506f85c&chksm=fa8320afcdf4a9b965a768e34dff675e754de7e0c9ad95ae3134be1fa4b0990c93c6e8b3162c&scene=178&cur_album_id=2531498848431669249#rd)

@@ -7,5 +7,5 @@
 + [Go设计模式--工厂模式,Go！](https://github.com/hd2yao/design-patterns/tree/main/creational-patterns/factory)
 
 参考学习内容：
-1. https://refactoringguru.cn/design-patterns
+1. [设计模式](https://refactoringguru.cn/design-patterns)
 2. **网管叨bi叨** `Go设计模式` 系列文章
