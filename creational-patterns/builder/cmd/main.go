@@ -1,9 +1,10 @@
 package main
 
 import (
+    "fmt"
+
     "design-patterns/creational-patterns/builder/concrete-builders"
     "design-patterns/creational-patterns/builder/director"
-    "fmt"
 )
 
 func main() {
