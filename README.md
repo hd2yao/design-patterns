@@ -12,6 +12,7 @@
 + [Go设计模式--中介者，开端！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/mediator)
 + [Go设计模式--解释器，加油！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/interpreter)
 + [Go设计模式--模板方法，我回来啦！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/template)
++ [Go设计模式--策略，如约而至！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/strategy)
 
 参考学习内容：
 1. [设计模式](https://refactoringguru.cn/design-patterns)
