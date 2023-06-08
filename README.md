@@ -8,7 +8,10 @@
 + [Go设计模式--单例,出发！](https://github.com/hd2yao/design-patterns/tree/main/creational-patterns/singleton)
 + [Go设计模式--原型,继续！](https://github.com/hd2yao/design-patterns/tree/main/creational-patterns/prototype)
 
-### 行为模式
+### 结构型模式设计
++ [Go设计模式--代理,go！](https://github.com/hd2yao/design-patterns/tree/main/creational-patterns/proxy)
+
+### 行为模式设计
 + [Go设计模式--中介者，开端！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/mediator)
 + [Go设计模式--解释器，加油！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/interpreter)
 + [Go设计模式--模板方法，我回来啦！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/template)
