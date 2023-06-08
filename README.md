@@ -9,7 +9,7 @@
 + [Go设计模式--原型,继续！](https://github.com/hd2yao/design-patterns/tree/main/creational-patterns/prototype)
 
 ### 结构型模式设计
-+ [Go设计模式--代理,go！](https://github.com/hd2yao/design-patterns/tree/main/creational-patterns/proxy)
++ [Go设计模式--代理,go！](https://github.com/hd2yao/design-patterns/tree/main/structural-patterns/proxy)
 
 ### 行为模式设计
 + [Go设计模式--中介者，开端！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/mediator)
