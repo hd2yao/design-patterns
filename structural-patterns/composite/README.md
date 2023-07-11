@@ -16,4 +16,4 @@
 
 参考学习内容：
 1. [组合模式](https://refactoringguru.cn/design-patterns/composite)
-2. [Go学设计模式--装饰器和职责链，哪个模式实现中间件更科学？](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247497282&idx=1&sn=0de76856e8649967bd3979cb122383fd&chksm=fa8327d5cdf4aec375fcae915f4eba2960b8f07f91b445f137319c81ea5a9ac4349f44d204d4&scene=178&cur_album_id=2531498848431669249#rd)
+2. [Go 设计模式｜组合，一个对数据结构算法和职场都有提升的设计模式](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247497331&idx=1&sn=cb8a154b7e6b2913cbd4db89dfe27e80&chksm=fa8327e4cdf4aef21935d4c524f26975bcd38e5e0cfb4145c751e5cca6b7e36c58306d647923&scene=178&cur_album_id=2531498848431669249#rd)
