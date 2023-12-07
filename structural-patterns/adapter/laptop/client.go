@@ -1,4 +1,4 @@
-package laptop
+package main
 
 import "fmt"
 

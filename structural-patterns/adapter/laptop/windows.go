@@ -1,4 +1,4 @@
-package laptop
+package main
 
 import "fmt"
 
@@ -7,5 +7,5 @@ import "fmt"
 type Windows struct{}
 
 func (w *Windows) insertIntoUSBPort() {
-    fmt.Println("USB connector is plugged into windows machine.")
+	fmt.Println("USB connector is plugged into windows machine.")
 }
