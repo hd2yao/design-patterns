@@ -12,7 +12,7 @@
 + [Go设计模式--代理,go！](https://github.com/hd2yao/design-patterns/tree/main/structural-patterns/proxy)
 + [Go设计模式--装饰,顺便迎接小长假！](https://github.com/hd2yao/design-patterns/tree/main/structural-patterns/decorator)
 + [Go设计模式--组合,我又回来啦！](https://github.com/hd2yao/design-patterns/tree/main/structural-patterns/composite)
-
++ [Go设计模式--适配器,启动！](https://github.com/hd2yao/design-patterns/tree/main/structural-patterns/adapter)
 ### 行为模式设计
 + [Go设计模式--中介者，开端！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/mediator)
 + [Go设计模式--解释器，加油！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/interpreter)
