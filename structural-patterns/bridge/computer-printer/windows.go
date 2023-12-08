@@ -1,4 +1,4 @@
-package computer_printer
+package main
 
 import "fmt"
 
