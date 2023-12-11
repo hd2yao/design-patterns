@@ -8,5 +8,6 @@ package main
 */
 
 func main() {
-
+    computer := NewComputerFacade()
+    computer.start()
 }
