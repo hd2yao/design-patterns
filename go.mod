@@ -2,7 +2,10 @@ module design-patterns
 
 go 1.20
 
-require github.com/stretchr/testify v1.8.3
+require (
+	github.com/gomodule/redigo v1.8.9
+	github.com/stretchr/testify v1.8.3
+)
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
