@@ -15,6 +15,7 @@
 + [Go设计模式--适配器,启动！](https://github.com/hd2yao/design-patterns/tree/main/structural-patterns/adapter)
 + [Go设计模式--桥接！](https://github.com/hd2yao/design-patterns/tree/main/structural-patterns/bridge)
 + [Go设计模式--外观！](https://github.com/hd2yao/design-patterns/tree/main/structural-patterns/facade)
++ [Go设计模式--享元！](https://github.com/hd2yao/design-patterns/tree/main/structural-patterns/flyweight)
 
 ### 行为模式设计
 + [Go设计模式--中介者，开端！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/mediator)
