@@ -3,7 +3,7 @@ package main
 func newPlayer(playerType, dressType string) *Player {
 	dress, _ := getDressFactorySingleInstance().getDressByType(dressType)
 	return &Player{
-		playerType: dressType,
+		playerType: playerType,
 		dress:      dress,
 	}
 }
