@@ -22,6 +22,7 @@
 + [Go设计模式--模板方法，我回来啦！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/template)
 + [Go设计模式--策略，如约而至！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/strategy)
 + [Go设计模式--责任链，AGAIN！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/chain-of-command)
++ [Go设计模式--Next, 命令！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/command)
 
 参考学习内容：
 1. [设计模式](https://refactoringguru.cn/design-patterns)
