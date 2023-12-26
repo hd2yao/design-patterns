@@ -26,6 +26,7 @@
 + [Go设计模式--Next, 命令！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/command)
 + [Go设计模式--today is 迭代器！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/iterator)
 + [Go设计模式--备忘录！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/memento)
++ [Go设计模式--观察者！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/observer)
 
 参考学习内容：
 1. [设计模式](https://refactoringguru.cn/design-patterns)
