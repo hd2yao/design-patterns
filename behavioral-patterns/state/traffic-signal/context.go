@@ -8,5 +8,6 @@ type TrafficLight struct {
 func NewSimpleTrafficLight(speedLimit int) *TrafficLight {
     return &TrafficLight{
         SpeedLimit: speedLimit,
+        State:      NewRedState(),
     }
 }
