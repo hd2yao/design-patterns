@@ -28,6 +28,7 @@
 + [Go设计模式--备忘录！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/memento)
 + [Go设计模式--观察者！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/observer)
 + [Go设计模式--状态！](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/state)
++ [Go设计模式--访问者, the last !!!](https://github.com/hd2yao/design-patterns/tree/main/behavioral-patterns/visitor)
 
 参考学习内容：
 1. [设计模式](https://refactoringguru.cn/design-patterns)
