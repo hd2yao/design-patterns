@@ -16,5 +16,5 @@
 > 请求可发送给链上的任意一个处理者， 而非必须是第一个处理者。
 
 参考学习内容：
-1. [Go 程序里 if else 分支太多？试着用策略模式治理一下吧](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247496925&idx=1&sn=6535ed0a8b5ad98d56c48f568c0720ae&chksm=fa83254acdf4ac5c64ea7df4ead46fca891520a52491160e1de8ea19410dd60a6d198f5fdd65&scene=178&cur_album_id=2531498848431669249#rd)
-2. [策略模式](https://refactoringguru.cn/design-patterns/strategy)
+1. [你也是业务开发？提前用这个设计模式预防产品加需求吧](https://mp.weixin.qq.com/s/zCh12E10JM24EGTyFS7hPQ)
+2. [责任链模式](https://refactoringguru.cn/design-patterns/chain-of-responsibility)
